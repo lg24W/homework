@@ -1,2 +1,0 @@
-# homework
-store homework
